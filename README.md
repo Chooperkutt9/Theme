@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://paypal.me/ankushbhagatofficial">
+
 <img height="32" title="Donate"
 src="https://user-images.githubusercontent.com/74892618/104415238-a618d500-5597-11eb-82a4-46b7c1913e2c.png"></a>
 
