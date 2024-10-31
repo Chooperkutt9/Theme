@@ -1,7 +1,5 @@
 <p align="center">
-1QEvQWuv6YUfBALcursW4TbLHV3uG3NviU
-<img height="32" title="Donate me bitcoin"
-src="https://user-images.githubusercontent.com/74892618/104415238-a618d500-5597-11eb-82a4-46b7c1913e2c.png"></a>
+Donate me via Bitcoin: 1QEvQWuv6YUfBALcursW4TbLHV3uG3NviU
 
 [![github](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/imegeek)
 [![github](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/imegeek)
