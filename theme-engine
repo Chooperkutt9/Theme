@@ -1,10 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 #┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-#┃ Project : Theme-Engine                                    ┃
-#┃ Author  : IM GEEK                                         ┃
-#┃ Version : 5.6 (Latest)                                    ┃
-#┃ Github  : imegeek <github.com/imegeek>                    ┃
+#┃ Project : Theme-Cyb3r                                               ┃
+#┃ Author  : IM Shariar Sakib                                          ┃
+#┃ Version : 5.7 (Latest)                                              ┃
+#┃ Github  : https://github.com/Chooperkutt9/                          ┃
 #┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 #..............................................................
@@ -285,7 +285,7 @@ fi
 }
 
 #..............................................................
-                           checking
+                           Loading
 #..............................................................
 
 ## arguments
@@ -616,7 +616,7 @@ printf "\n\e[0;1m┃\e[0;1;100m ${NBred}                                        
 printf "\n\e[0;1m┃\e[0;1;100m ${NBred} ▀█▀ █ █ █▀▀ █▀▄▀█ █▀▀ \e[0;100m▃▃${NBblue}  █▀▀ █▄ █ █▀▀ █ █▄ █ █▀▀  \e[0;1m┃${reset}";WAIT
 printf "\n\e[0;1m┃\e[0;1;100m ${NBred}  █  █▀█ ██▄ █ ▀ █ ██▄ ${NBred}  ${NBblue}  ██▄ █ ▀█ █▄█ █ █ ▀█ ██▄  \e[0;1m┃${reset}";WAIT
 printf "\n\e[0;1m┃\e[0;1;100m ${NBred}                       ${NBred}  ${NBblue}                           \e[0;1m┃${reset}";WAIT
-printf "\n\e[0;1m┃\e[0;1;100m Maintain by ── imegeek ──────────────┐              \e[0;1m┃${reset}";WAIT
+printf "\n\e[0;1m┃\e[0;1;100m Maintain by ── CYB3R ──────────────┐              \e[0;1m┃${reset}";WAIT
 printf "`night_print_shell`"
 printf "\n\e[0;1m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫${reset}\n";WAIT
 }
@@ -629,7 +629,7 @@ printf "\n\e[0;1m┃${Bred}                          ${Bblue}                   
 printf "\n\e[0;1m┃${Bred} ${Sred} ▀█▀ █ █ █▀▀ █▀▄▀█ █▀▀ ${Sreset}▃▃${Bblue} ${Sblue} █▀▀ █▄ █ █▀▀ █ █▄ █ █▀▀  \e[0;1m┃${reset}";WAIT
 printf "\n\e[0;1m┃${Bred} ${Sred}  █  █▀█ ██▄ █ ▀ █ ██▄   ${Bblue} ${Sblue} ██▄ █ ▀█ █▄█ █ █ ▀█ ██▄  \e[0;1m┃${reset}";WAIT
 printf "\n\e[0;1m┃${Bred}                          ${Bblue}                           \e[0;1m┃${reset}";WAIT
-printf "\n\e[0;1m┃\e[0;1;7m Maintain by ── imegeek ──────────────┐              \e[0;1m┃${reset}";WAIT
+printf "\n\e[0;1m┃\e[0;1;7m Maintain by ── CYB3R ──────────────┐              \e[0;1m┃${reset}";WAIT
 printf "`day_print_shell`"
 printf "\n\e[0;1m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫${reset}\n";WAIT
 }
@@ -905,7 +905,7 @@ elif [[ $option = "2" ]] || [[ $option = "02" ]];then
 
 elif [[ $option = "3" ]] || [[ $option = "03" ]];then
 	play_alert
-	RCUSR
+	RCUUSR
 	cd ${loc3}
 	bash zsh.setup.theme
 
@@ -953,4 +953,4 @@ fi
 
 #..............................................................
 
-#       Thanks for using Theme-Engine.
+#       Thanks for using Theme-CYB3R.
